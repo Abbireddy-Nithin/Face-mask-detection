@@ -1,5 +1,8 @@
 # Face-mask-detection
 
+![image](https://user-images.githubusercontent.com/82441801/189419331-2c8859e2-8f39-48a7-9f89-4cb213deabf5.png)
+
+
 The Face mask detection is a simple machine learning project made using tensorflow, keras and openCV.
 
 The code given above can be easily executed using the google colab.
